@@ -1,7 +1,6 @@
 1. This app collects and stores:
 	a) Statistics and data about your gameplay behaviour in app, including player prefs.
 	b) Informations about your purchases inside this app.
- 
 	c) Informations about ads you have encountered inside the app. 
 	c) Your FB account informations, if linked.
 2. What we do with this data:
@@ -14,5 +13,5 @@
 	c) Except them we may share data with facebook.com and unity3d.com
 	d) Some data may be collected by Google.
 4. Who are we:
-	a) At this moment it's only one person: Jakub Przemys³aw "Kamkaskan" Kamiñski from Poland.
+	a) At this moment it's only one person: Jakub PrzemysÂ³aw "Kamkaskan" KamiÃ±ski from Poland.
 	b) You can contact me by mail: kamkaskan@gmail.com
