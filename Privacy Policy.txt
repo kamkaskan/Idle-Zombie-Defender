@@ -1,0 +1,18 @@
+1. This app collects and stores:
+	a) Statistics and data about your gameplay behaviour in app, including player prefs.
+	b) Informations about your purchases inside this app.
+ 
+	c) Informations about ads you have encountered inside the app. 
+	c) Your FB account informations, if linked.
+2. What we do with this data:
+	a) We analyse the behaviour of players to make more suiting changes in the game.
+	b) We use informations about bugs to determine how many players they affect.
+	c) We use FB account to allow you to download your player prefs after making clean install of our app.
+3. What third parties we share this data:
+	a) We don't share data with anyone except API providers we use.
+	b) Main API provider is playfab.com
+	c) Except them we may share data with facebook.com and unity3d.com
+	d) Some data may be collected by Google.
+4. Who are we:
+	a) At this moment it's only one person: Jakub Przemys³aw "Kamkaskan" Kamiñski from Poland.
+	b) You can contact me by mail: kamkaskan@gmail.com
