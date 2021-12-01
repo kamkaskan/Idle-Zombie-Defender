@@ -4,11 +4,11 @@
 2. What we do with this data:
 	a) We analyse the behaviour of players to make more suiting changes in the game.
 	b) IAP informations are used by Google and Apple to proceed them and by Unity3d.com to manage them.
-	c) Ad informations are used by AdInCube to personalize them (if you agree).
+	c) Ad informations are used by AdMob to personalize them (if you agree).
 3. What third parties we share this data:
 	a) We don't share data with anyone except API providers we use.
-	b) Main API provider is AdInCube and Unity3d.com
-	d) Some data may be collected by Google or Apple.
+	b) Main API provider is Google and Unity3d.com
+	d) Some data may be collected by your operating system default app store, Google or Apple.
 4. Who are we:
-	a) At this moment it's only one person: Jakub Przemys³aw "Kamkaskan" Kamiñski from Poland.
+	a) At this moment it's only one person: Jakub Przemyslaw "Kamkaskan" Kaminski from Poland.
 	b) You can contact me by mail: kamkaskan@gmail.com
